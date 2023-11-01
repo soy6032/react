@@ -11,7 +11,7 @@ const FullLayout = lazy(() => import("../layouts/FullLayout"));
  const Join = lazy(() => import("../views/JoinForm"))
  const Info = lazy(() => import("../views/Info"));
 
-/*****Routes******/
+/*****Routes*****dd*/
 
 const ThemeRoutes = [
   {
