@@ -1,6 +1,5 @@
 import React, { Suspense, createContext, useState } from 'react';
 import ReactDOM from 'react-dom/client';
-import "./assets/scss/style.scss";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
