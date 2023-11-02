@@ -51,7 +51,7 @@ const LoginForm = () => {
 
     return(
         <div>
-            <h3 className="text-center mt-5 mb-5">LOGIN 수정이 되는지 테스트tes1ddddt</h3>
+            <h3 className="text-center mt-5 mb-5">LOGIN 수정이 되는지 테스트tes1ddddttrest</h3>
             <Form>
                 <FormGroup floating>
                     <Input
